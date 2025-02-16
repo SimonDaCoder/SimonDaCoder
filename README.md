@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Simon The Rizzler</h1>
+<h1 align="center">Hi 👋, I'm Simon</h1>
 <h3 align="center">An upcoming Webdeveloper from germany</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simondacoder" alt="simondacoder" /></a> </p>
